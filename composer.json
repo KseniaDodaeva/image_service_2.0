@@ -1,0 +1,10 @@
+{
+    "name": "senia/image",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "image\\": "./",
+            "Authorization_Registration\\": "./Authorization_Registration"
+        }
+    }
+}
